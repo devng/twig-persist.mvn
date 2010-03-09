@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.vercer.engine.persist</groupId>
-  <artifactId>twig</artifactId>
-  <version>0.1</version>
+  <artifactId>twig-persist</artifactId>
+  <version>1.0</version>
   <versioning>
     <versions>
-      <version>0.1</version>
-      <version>0.2</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20100309223952</lastUpdated>
+    <lastUpdated>20100309225611</lastUpdated>
   </versioning>
 </metadata>
