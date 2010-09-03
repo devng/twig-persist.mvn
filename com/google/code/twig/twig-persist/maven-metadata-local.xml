@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.google.code.twig</groupId>
+  <artifactId>twig-persist</artifactId>
+  <version>2.0-alpha</version>
+  <versioning>
+    <versions>
+        <version>2.0-alpha</version>
+    </versions>
+    <lastUpdated>20100828035627</lastUpdated>
+  </versioning>
+</metadata>
